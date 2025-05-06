@@ -22,7 +22,8 @@ public final class CandidatesUtil {
 				new Candidate("David", 1, Set.of("javascript", "c++")),
 				new Candidate("Diana", 4, Set.of("java", "python")),
 				new Candidate("June", 2, Set.of("ruby", "aws", "docker")),
-				new Candidate("April", 3, Set.of("python", "Erlang", "docker")));
+				new Candidate("April", 3, Set.of("python", "Erlang", "docker")),
+				new Candidate("Leandro", 3, Set.of("python", "Erlang", "docker")));
 
 		return candidateList;
 	}
